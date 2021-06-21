@@ -7,4 +7,6 @@ git clone https://github.com/qpwo/webpack-minimal-template
 cd webpack-minimal-template
 npm install
 npm start
+# optimized build without hot reloading:
+npm run build
 ```
